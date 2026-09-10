@@ -1,0 +1,83 @@
+{
+  "test_accuracy": 0.8944,
+  "macro_precision": 0.8938839563728846,
+  "macro_recall": 0.8944000000000001,
+  "macro_f1": 0.8938157810747734,
+  "checkpoint_epoch": 29,
+  "checkpoint_validation_accuracy": 0.8988333333333334,
+  "class_metrics": {
+    "T-shirt/top": {
+      "precision": 0.8228678537956888,
+      "recall": 0.878,
+      "f1-score": 0.849540396710208,
+      "support": 1000.0
+    },
+    "Trouser": {
+      "precision": 0.9918116683725691,
+      "recall": 0.969,
+      "f1-score": 0.9802731411229135,
+      "support": 1000.0
+    },
+    "Pullover": {
+      "precision": 0.812,
+      "recall": 0.812,
+      "f1-score": 0.812,
+      "support": 1000.0
+    },
+    "Dress": {
+      "precision": 0.8823529411764706,
+      "recall": 0.915,
+      "f1-score": 0.898379970544919,
+      "support": 1000.0
+    },
+    "Coat": {
+      "precision": 0.8192534381139489,
+      "recall": 0.834,
+      "f1-score": 0.8265609514370664,
+      "support": 1000.0
+    },
+    "Sandal": {
+      "precision": 0.972972972972973,
+      "recall": 0.972,
+      "f1-score": 0.9724862431215607,
+      "support": 1000.0
+    },
+    "Shirt": {
+      "precision": 0.7464008859357697,
+      "recall": 0.674,
+      "f1-score": 0.7083552285864425,
+      "support": 1000.0
+    },
+    "Sneaker": {
+      "precision": 0.9522388059701492,
+      "recall": 0.957,
+      "f1-score": 0.9546134663341646,
+      "support": 1000.0
+    },
+    "Bag": {
+      "precision": 0.9798183652875883,
+      "recall": 0.971,
+      "f1-score": 0.9753892516323456,
+      "support": 1000.0
+    },
+    "Ankle boot": {
+      "precision": 0.959122632103689,
+      "recall": 0.962,
+      "f1-score": 0.9605591612581128,
+      "support": 1000.0
+    },
+    "accuracy": 0.8944,
+    "macro avg": {
+      "precision": 0.8938839563728846,
+      "recall": 0.8944000000000001,
+      "f1-score": 0.8938157810747734,
+      "support": 10000.0
+    },
+    "weighted avg": {
+      "precision": 0.8938839563728846,
+      "recall": 0.8944,
+      "f1-score": 0.8938157810747734,
+      "support": 10000.0
+    }
+  }
+}
